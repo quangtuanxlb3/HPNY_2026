@@ -247,7 +247,7 @@ ctx[_0x595fa0(0x1f9)]();
                       setTimeout(function () {
                           typeText('line3', '🌸 Và chúc những ước mơ 🌟, dự định 🎯 trong năm nay đều nở hoa 🌹, mang đến thành công rực rỡ 🏆 và bình an trọn vẹn 🕊️', 70, function () {
                               setTimeout(function () {
-                                  typeText('line4', '🎊🎉Chúc mừng năm mới🎉🎊-Tuancryyy', 70, function () {
+                                  typeText('line4', 'Tuancryyy', 70, function () {
                                   });
                               }, 500);
                           });
