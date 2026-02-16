@@ -241,13 +241,13 @@ ctx[_0x595fa0(0x1f9)]();
 
   function showText() {
       setTimeout(function () {
-          typeText('line1', '🎆 Năm mới 2026 đến, chúc bạn và gia đình luôn tràn đầy sức khỏe 💪 và năng lượng tích cực để vững bước trên mọi hành trình.', 70, function () {
+          typeText('line1', '🎆 Năm mới 2026 đến, chúc em và gia đình luôn tràn đầy sức khỏe 💪 và năng lượng tích cực để vững bước trên mọi hành trình.', 70, function () {
               setTimeout(function () {
-                  typeText('line2', '😊 Chúc cho niềm vui 🎶, tiếng cười 😂 và hạnh phúc ❤️ sẽ luôn ngập tràn trong mái ấm thân thương của bạn.', 70, function () {
+                  typeText('line2', '😊 Chúc cho niềm vui 🎶, tiếng cười 😂 và hạnh phúc ❤️ sẽ luôn ngập tràn trong mái ấm thân thương của em.', 70, function () {
                       setTimeout(function () {
                           typeText('line3', '🌸 Và chúc những ước mơ 🌟, dự định 🎯 trong năm nay đều nở hoa 🌹, mang đến thành công rực rỡ 🏆 và bình an trọn vẹn 🕊️', 70, function () {
                               setTimeout(function () {
-                                  typeText('line4', 'Tuancryyy', 70, function () {
+                                  typeText('line4', '❤️iu em nhìu-Tuancryyy', 70, function () {
                                   });
                               }, 500);
                           });
